@@ -1,7 +1,7 @@
-package edu.iu.habahram.weathermonitoring.controllers;
+package edu.iu.anderblm.weathermonitoring.controllers;
 
-import edu.iu.habahram.weathermonitoring.model.Observer;
-import edu.iu.habahram.weathermonitoring.model.Subject;
+import edu.iu.anderblm.weathermonitoring.model.Observer;
+import edu.iu.anderblm.weathermonitoring.model.Subject;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

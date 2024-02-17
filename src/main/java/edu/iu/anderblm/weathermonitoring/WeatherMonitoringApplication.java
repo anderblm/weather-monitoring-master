@@ -1,4 +1,4 @@
-package edu.iu.habahram.weathermonitoring;
+package edu.iu.anderblm.weathermonitoring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

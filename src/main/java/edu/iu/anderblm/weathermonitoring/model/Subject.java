@@ -1,4 +1,4 @@
-package edu.iu.habahram.weathermonitoring.model;
+package edu.iu.anderblm.weathermonitoring.model;
 
 import java.util.List;
 
